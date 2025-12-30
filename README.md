@@ -120,7 +120,7 @@ This is a personal learning project, but feedback and suggestions are welcome!
 **Hiruy Kassa**
 - Email: hiruygirmak@gmail.com
 - LinkedIn: [linkedin.com/in/hiruykassa](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
-- GitHub: [github.com/hiruykassa](https://www.github.com/in/hiruykassa)
+- GitHub: [github.com/hiruykassa](https://github.com/hiruykassa)
 
 ## 📝 License
 This project is open source and available under the MIT License.
