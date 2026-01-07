@@ -1,14 +1,12 @@
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-env/
-venv/
-ENV/
 build/
-develop-eggs/
 dist/
 downloads/
 eggs/
@@ -23,37 +21,48 @@ wheels/
 .installed.cfg
 *.egg
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+ENV/
+.env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
-# Data files (too large for GitHub)
-data/raw/*.csv
-data/raw/*.xlsx
-data/raw/*.xls
+# =========================
+# Data (local only)
+# =========================
+data/raw/
 data/processed/*.csv
 data/processed/*.xlsx
 
+# =========================
 # IDEs
+# =========================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
+# =========================
 # OS
+# =========================
 .DS_Store
 Thumbs.db
 
-# Virtual Environment
-venv/
-ENV/
-env/
+# =========================
+# Results (optional large outputs)
+# =========================
+results/figures/
 
-# Results (keep structure, ignore large files)
-results/figures/*.png
-results/figures/*.jpg
-results/figures/*.pdf
-
+# =========================
 # Logs
+# =========================
 *.log
