@@ -108,15 +108,11 @@ After running the pipeline, you will have:
 * The final report notebook (`04_final_report.ipynb`) intentionally loads precomputed outputs to stay fast and stable.
 
 ## Contact
-
 **Hiruy Kassa**
-- Email: hiruygirmak@gmail.com
-- LinkedIn: [linkedin.com/in/hiruykassa](https://linkedin.com/in/hiruykassa)
-- GitHub: [github.com/hiruykassa](https://github.com/hiruykassa)
 
-* Email: [hiruygirmak@gmail.com](mailto:hiruygirmak@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/hiruy-kassa-b17922297/](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
-* GitHub: [https://github.com/hiruykassa](https://github.com/hiruykassa)
+- Email: hiruygirmak@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hiruy-kassa-b17922297/
+- GitHub: https://github.com/hiruykassa
 
 ---
-*Last Updated: January 2026*
+*Last Updated: January 7, 2026*
